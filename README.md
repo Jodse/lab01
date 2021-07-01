@@ -21,7 +21,7 @@ Clear the contents of the current tab.
 ## 3: Listing
 
 What’s the command to list all the files (and directories) on your Desktop directory? 
-
+ls
 
 ## 4: Making directories
 
@@ -41,7 +41,7 @@ Create an empty file called file01 in the lab directory.
 ## 7: Deleting directories
 
 What is the command used to remove a directory named **food** and everything inside it. 
-
+rmdir
 # Part C - Github 
 
 ## 8: Download the GitHub desktop application
